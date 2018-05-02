@@ -21,7 +21,7 @@ public class DesignPatternApplication {
         //System.out.println(getInstance2().toString());
         //reflectMethod();
         //testJdkProxy();
-        testCglibProxy();
+        //testCglibProxy();
     }
 
     public static ReflectServiceImpl getInstance(){
